@@ -1,0 +1,31 @@
+# The URL the site will be built for
+title = "Cony Internet Service Provider"
+description = "A lightning-fast, pay-as-you-go internet provider for Van Wyck."
+base_url = "https://conyisp.com"
+theme = "relay"
+compile_sass = true
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[extra]
+# Top Index Page Landing Section 
+long_description = "Cony is bringing fast, affordable internet connectivity to a neighborhood underserved by big telecoms: Van Wyck, Whatcom Co., Washington State. No longer will Van Wyck be charged outrageous rates, hidden fees, equipment rentals, or data caps. <br><br> By partnering with the Port of Bellingham and Althea by Hawk Networks, Cony empowers Van Wyck with a resilient, well-priced, and community owned & operated Internet Service Provider."
+landing_photo_path = "art/ConyNoText4000x4000.png"
+landing_photo_alt = "Alt description of the splash photo."
+
+# Navigation Bar
+nav1 = "About Cony"
+nav1href = "/about"
+nav2 = "About Althea"
+nav2href = "www.althea.net" 
+nav3 = "About Whatcom Co. Rural Fiber"
+nav3href = ""
+
+# Footer Message
+footer_msg = "Cony Internet Service Provider is not a registered company. This footer will link to legal information once it is."
+footer_link = ""

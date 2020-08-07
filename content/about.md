@@ -1,7 +1,7 @@
 +++
 title = "About"
-description = "About Tendon Networking."
-weight = 1
+description = "About Cony."
+weight = 10
 template = "page.html"
 +++
-Under Construction. 
+Cony Internet Service Provider is owned by Kris Keillor, who is completing his undergraduate studies at Western Washington University in Electrical Engineering.

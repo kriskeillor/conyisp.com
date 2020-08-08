@@ -15,7 +15,7 @@ build_search_index = true
 [extra]
 # Top Index Page Landing Section 
 long_description = "Cony is bringing fast, affordable internet connectivity to a neighborhood underserved by big telecoms: Van Wyck, Whatcom Co., Washington State. No longer will Van Wyck be charged outrageous rates, hidden fees, equipment rentals, or data caps. <br><br> By partnering with the Port of Bellingham and Althea by Hawk Networks, Cony empowers Van Wyck with a resilient, well-priced, and community owned & operated Internet Service Provider."
-landing_photo_path = "images/ConyNoText4000x4000.png"
+landing_photo_path = "/images/ConyNoText4000x4000.png"
 landing_photo_alt = "Alt description of the splash photo."
 
 # Navigation Bar

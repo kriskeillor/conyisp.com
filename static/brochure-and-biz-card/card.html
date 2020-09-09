@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body style="padding: 0; margin: 0; font-size:0px; min-width: 1056px; max-width: 1056px; min-height: 816px; font-family: 'Segoe UI'">
+        <div id="card" style="font-size:10px; max-width:336px; min-height: 192px; max-height: 192px; display: inline-block; overflow: hidden; box-sizing: border-box;">
+            <div style="float:left; max-width: 50%; padding-left: 1.5em; padding-right: 1em;  box-sizing: border-box;">
+                <h1 style="margin-bottom: 0; margin-top: 0.25em; text-align: center;">Cony</h1>
+                <h3 style="margin-bottom: 0; text-align: center; margin-top: 0;">Iɴᴛᴇʀɴᴇᴛ Sᴇʀᴠɪᴄᴇ Pʀᴏᴠɪᴅᴇʀ</h2>
+                
+                <p style="text-align: justify; margin-bottom: 0; margin-top: 0.5em;">
+                    Kris Keillor<br/>
+                    (509) 591-7942<br/>
+                    service@conyisp.com<br/>
+                </p>
+                
+                <p style="text-align: justify; margin-bottom: 0; margin-top: 0.5em;">
+                    Enroll at <a href="althea.net/vanwyck">althea.net/vanwyck</a>.<br>
+                    Once enrolled, you'll get a code by postcard. <span style="text-decoration: underline;">Enter this code </span>online to complete registration.
+                </p>
+            </div>
+            <div style="float:right; max-width: 50%; background-color: black; min-height: 192px; text-align: center;">
+                <img src="..\conyisp.com\static\images\ConyNoText4000x4000.png" style="max-width: 100%; margin-top: auto; margin-bottom: auto;">
+            </div></div><script>
+            let card = document.querySelector('#card');
+            var i;
+            for (i=1; i<12; i++)
+            {
+                let clonedCard = card.cloneNode(true);
+                clonedCard.id = "";
+                document.body.appendChild(clonedCard); 
+            }
+        </script>
+    </body>
+</html>

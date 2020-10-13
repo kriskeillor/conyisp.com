@@ -14,9 +14,9 @@ build_search_index = true
 
 [extra]
 # Top Index Page Landing Section 
-long_description = "Cony is bringing fast, affordable internet connectivity to a neighborhood underserved by big telecoms: Van Wyck, Whatcom Co., Washington State. No longer will Van Wyck be charged outrageous rates, hidden fees, equipment rentals, or data caps. <br><br> By partnering with the Port of Bellingham and Althea by Hawk Networks, Cony empowers Van Wyck with a resilient, well-priced, and community owned & operated Internet Service Provider."
+long_description = "Cony is bringing fast, affordable internet connectivity to a neighborhood underserved by big telecoms: Van Wyck, Whatcom Co., Washington State. No longer will Van Wyck be subjected to outrageous rates, hidden fees, equipment rentals, or data caps. <br><br> By partnering with the Port of Bellingham and Althea by Hawk Networks, Cony empowers Van Wyck with a resilient, well-priced, and community owned & operated Internet Service Provider.<br><br><a href='/signup' style='color:white;'>Sign Up</a><br><a href='/contact' style='color:white;'>Contact your Organizer</a>"
 landing_photo_path = "/images/ConyNoText4000x4000.png"
-landing_photo_alt = "Alt description of the splash photo."
+landing_photo_alt = "A digitized coney leaps across the globe."
 
 # Navigation Bar
 nav1 = "About Cony"
@@ -27,5 +27,6 @@ nav3 = "About Whatcom Co. Rural Fiber"
 nav3href = "https://www.portofbellingham.com/bids.aspx?bidID=60"
 
 # Footer Message
-footer_msg = "Cony Internet Service Provider is not a registered company. This footer will link to legal information once it is."
-footer_link = ""
+footer_msg = "Cony Internet Service Provider is a Sole Proprietorship registered with the IRS and WA DOR."
+footer_link = "/about"
+footer_msg_add = "Established 2020. All content copyright 2020 Cony ISP."

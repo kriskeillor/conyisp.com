@@ -27,6 +27,11 @@ nav2href = "https://www.althea.net"
 nav3 = "About Whatcom Co. Rural Fiber"
 nav3href = "https://www.portofbellingham.com/bids.aspx?bidID=60"
 
+#Social Media
+social_first_icon_path = "/images/symbol-wifi.png"
+medium_name = "cony-isp"
+medium_icon_path = "/images/symbol-medium.png"
+
 # Footer Message
 footer_msg = "Cony Internet Service Provider is a Sole Proprietorship registered with the IRS and WA DOR."
 footer_link = "/about"
